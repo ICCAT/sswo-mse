@@ -16,6 +16,7 @@ Suggests:
     rmarkdown
 VignetteBuilder: knitr
 Imports: 
+    corrr,
     dplyr,
     FishLife,
     MASS,

@@ -1,0 +1,19 @@
+Parameter Name,Mean,SD,CV,min,max,Description
+mort,0.245,0.049497475,0.202030509,0,0.49,Estimated from mean of honig´s method estimated from max age 15 and max age 20 (see https://fs.fish.govt.nz/Doc/22488/TUN2003-01%20Swordfish%20growth%20longevity%20mortality%20Objective%203%20final.pdf.ashx
+L50,127.2312538,,0.2,,,Calculated below with an assumed CV
+L50_95,24.87478631,,0.2,,,
+L50_Linf,0.377895907,,0.2,,,
+mat.slope,1.24,0.248,0.2,0.01,2.48,Assumed to be 20% of the mean
+mat.50,5.013435,1.34E+00,0.266749444,1,10.02687,Derived from the reported percentiles
+length.weight.alpha,0.000007162,1.4324E-06,0.2,0,0.000014324,Assumed to be 20% of the mean
+length.weight.beta,3.1046,0.62092,0.2,2,6.2092,Assumed to be 20% of the mean
+vLinf,336.6833333,33.97893661,0.100922538,100,673.3666667,Estimated from the mean female growth parameter estimates from Sharma and Arocha
+vonK,0.063213333,0.048409447,0.2,0.01,0.126426667,Estimated from the mean female growth parameter estimates from Sharma and Arocha
+vtto,-2.508666667,2.172569293,0.2,-3,0,Estimated from the mean female growth parameter estimates from Sharma and Arocha
+BFConstant,1846990,369398,0.2,615663.3333,738796,Assumed to be 20% of the mean
+Bfa,77.407,15.4814,0.2,25.80233333,30.9628,Assumed to be 20% of the mean
+BFb,4.637,0.9274,0.2,1.545666667,1.8548,Assumed to be 20% of the mean
+ParChange,1,0.2,0.2,0.333333333,0.4,Assumed to be 20% of the mean
+RealizedFecFactor,2.6,0.52,0.2,0.866666667,1.04,Assumed to be 20% of the mean
+NS,2.12E+02,4.24E+01,0.2,7.07E+01,8.48E+01,Assumed to be 20% of the mean
+Se,5.69568E-09,1.13914E-09,0.2,1.89856E-09,2.27827E-09,Assumed to be 20% of the mean
