@@ -1,0 +1,22 @@
+---
+title: "Trial Specifications Document"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Trial Specifications Document}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(SSWO)
+```
+
+## Introduction
+
